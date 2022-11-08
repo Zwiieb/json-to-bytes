@@ -1,4 +1,4 @@
-# json-to-bytes
+# Json To Bytes
 A little project which extract values of json and export them to an exe
 
 provide with 2 exe to execute programs without python
