@@ -1,5 +1,5 @@
 # Json To Bytes
-A little project which extract values of json and export them to an txt
+A little project which extract values of json and export them to a txt
 
 provide with 2 exe to execute programs without python
 
